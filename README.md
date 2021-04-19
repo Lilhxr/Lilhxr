@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there  I'm Xiaorui 🤩
 
-<!--
-**Lilhxr/Lilhxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://google.com">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Lilhxr&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="Lilhxr's github stats" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/lil-hxr/), [GoogleScholar](https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title)
+ - 📌 **Self-motivated** Learner.
+ - ✨ **Leader** of mutiple communities
+ - 👔 Current Research Intern at **PolyU**
+   - Software Engineering, Recommendation system, Big Data
+   - Fromer RA at **CQUPT** and exchanger at**NUS**
+ - 🎓 Proud **USC Trojan**
+ - ✏ Male **Feminist**
+ 
+## 
