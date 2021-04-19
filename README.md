@@ -8,8 +8,8 @@
  - 📌 **Self-motivated** Learner.
  - ✨ **Leader** of mutiple communities
  - 👔 Current Research Intern at **PolyU**
-   - Software Engineering, Recommendation system, Big Data
-   - Fromer RA at **CQUPT** and exchanger at**NUS**
+   - Software Engineering, Recommendation System, Big Data
+   - Fromer RA at **CQUPT** and **HUAWEI**
  - 🎓 Proud **USC Trojan**
  - ✏ Male **Feminist**
  
