@@ -10,7 +10,7 @@
  - 👔 Current Research Intern at **PolyU**
    - Software Engineering, Recommendation System, Big Data
    - Fromer RA at **CQUPT** and **HUAWEI**
- - 🎓 Proud **USC Trojan**
+ - 🎓 Proud **Edinburgh CS Master**
  - ✏ Male **Feminist**
  
 ## 
