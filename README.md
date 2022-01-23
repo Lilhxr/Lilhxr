@@ -11,6 +11,5 @@
    - Software Engineering, Recommendation System, Big Data
    - Fromer RA at **CQUPT** and **HUAWEI**
  - 🎓 Proud **Edinburgh CS Master**
- - ✏ Male **Feminist**
  
 ## 
