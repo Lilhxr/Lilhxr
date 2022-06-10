@@ -15,3 +15,5 @@
  - 🎓 Proud **Edinburgh CS Master**
  
 ## 
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilhxr&layout=compact">
