@@ -21,5 +21,5 @@
  - 🎓 Proud **Edinburgh CS Master**
  
 ## 
- - 🎨 **Currently Intern at Huawei 2012 Lab,base:Edinburgh**
+ - 🎨 **Currently Intern at Huawei 2012 Lab,Edinburgh**
 
