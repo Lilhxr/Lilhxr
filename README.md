@@ -1,8 +1,6 @@
 ### Hi there  I'm Xiaorui 🤩
 
-<a href="http:/https://github.com/Lilhxr">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lilhxr&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="Lilhxr's github stats" />
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Lilhxr&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilhxr&layout=compact">
 
