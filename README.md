@@ -1,6 +1,6 @@
 ### Hi there  I'm Xiaorui 🤩
 
-<a href="http://google.com">
+<a href="http:/https://github.com/Lilhxr/">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Lilhxr&show_icons=true&title_color=ff8f1c&icon_color=250E62&text_color=193549&bg_color=f2fcff" alt="Lilhxr's github stats" />
 </a>
 
