@@ -14,7 +14,7 @@
    - Software Engineering, Recommendation System, Big Data
    - Fromer RA at **CQUPT** and **HUAWEI**
  - 🎓 Proud **Edinburgh CS Master**
- - 🎨 **Currently Intern at Huawei 2012 Lab,base:Edinburgh**
  
 ## 
+ - 🎨 **Currently Intern at Huawei 2012 Lab,base:Edinburgh**
 
