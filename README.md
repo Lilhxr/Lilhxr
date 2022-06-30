@@ -11,8 +11,7 @@
 
 [Linkedin](https://www.linkedin.com/in/lil-hxr/), [GoogleScholar](https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title)
  - 📌 **Self-motivated** Learner.
- - ✨ **Leader** of mutiple communities
- - 👔 
+ - 👔 Buyer hip-hop Basketball
    - Software Engineering, Search and Recommendation System
    - Fromer RA at **CQUPT** and **HUAWEI**
  - 🎓 Proud **Edinburgh CS Master**
