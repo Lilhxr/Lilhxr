@@ -12,11 +12,11 @@
 [Linkedin](https://www.linkedin.com/in/lil-hxr/), [GoogleScholar](https://scholar.google.com/citations?hl=en&user=fhqzdSAAAAAJ&view_op=list_works&sortby=title)
  - 📌 **Self-motivated** Learner.
  - ✨ **Leader** of mutiple communities
- - 👔 Past Research Intern at **PolyU**
-   - Software Engineering, Recommendation System, Big Data
+ - 👔 
+   - Software Engineering, Search and Recommendation System
    - Fromer RA at **CQUPT** and **HUAWEI**
  - 🎓 Proud **Edinburgh CS Master**
  
 ## 
- - 🎨 **Currently Intern at Huawei 2012 Lab,Edinburgh**
+ - 🎨 **Currently Intern at Huawei Nova Lab(Knowledge graph and search team),UK**
 
