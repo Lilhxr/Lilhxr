@@ -1,4 +1,4 @@
-### Hi there  I'm Xiaorui 🤩
+### Hi there  I'm Ruiii 🤩
 
 <img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api?username=Lilhxr&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
@@ -13,7 +13,7 @@
  - 📌 **Self-motivated** Learner.
  - 👔 Buyer hip-hop Basketball
    - Software Engineering, Search and Recommendation System
-   - Fromer RA at **CQUPT** and **HUAWEI**
+   - Fromer RA at **CQU** and **HUAWEI**
  - 🎓 Proud **Edinburgh CS Master**
  
 ## 
